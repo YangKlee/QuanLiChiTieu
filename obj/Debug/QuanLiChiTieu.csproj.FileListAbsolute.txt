@@ -1,0 +1,12 @@
+D:\QuanLiChiTieu\bin\Debug\QuanLiChiTieu.exe.config
+D:\QuanLiChiTieu\bin\Debug\QuanLiChiTieu.exe
+D:\QuanLiChiTieu\bin\Debug\QuanLiChiTieu.pdb
+D:\QuanLiChiTieu\obj\Debug\QuanLiChiTieu.csproj.AssemblyReference.cache
+D:\QuanLiChiTieu\obj\Debug\QuanLiChiTieu.Form1.resources
+D:\QuanLiChiTieu\obj\Debug\QuanLiChiTieu.Form2.resources
+D:\QuanLiChiTieu\obj\Debug\QuanLiChiTieu.Properties.Resources.resources
+D:\QuanLiChiTieu\obj\Debug\QuanLiChiTieu.csproj.GenerateResource.cache
+D:\QuanLiChiTieu\obj\Debug\QuanLiChiTieu.csproj.CoreCompileInputs.cache
+D:\QuanLiChiTieu\obj\Debug\QuanLiChiTieu.exe
+D:\QuanLiChiTieu\obj\Debug\QuanLiChiTieu.pdb
+D:\QuanLiChiTieu\obj\Debug\QuanLiChiTieu.Form3.resources
